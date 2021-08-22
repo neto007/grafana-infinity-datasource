@@ -14,6 +14,8 @@ Using the following links,You can try **Infinity datasource plugin** without ins
 
 ### [Demo](https://grafana-infinity-datasource.herokuapp.com)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/neto007/grafana-infinity-datasource/)
+
 ## Documentation
 
 Detailed documentation and examples are available in [plugin website](https://yesoreyeram.github.io/grafana-infinity-datasource)
